@@ -1,8 +1,6 @@
 # YelpDataset
 Text mining
 
-Yelp Dataset Challenge
-
 Task 1: Predict categories for business
 
 We were given a dataset of business reviews and we had to predict categories for business based on the reviews. 
